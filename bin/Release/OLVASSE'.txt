@@ -1,0 +1,7 @@
+a mappa tartalmaz mindent ami a játék futtatásához szükséges, csak ki kell csomagolni õket
+Tartalom:
+-zene (3db hangfájl, 1 háttérzene 2 hangeffekt)
+-betutipusok (3 db betutipus, 2 db kiírásra 1 db adatbevitelre)
+-képek(2 játékkép, többi mind menükép)
+-kód(2 header fájl és 5 db kódfájl
+-highscore alapszöveg (a kezdeti pontokkal/elérendõ eredményekkel)

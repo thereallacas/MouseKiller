@@ -1,0 +1,5 @@
+ king	43
+lacas	31
+KING	30
+VETERAN	20
+GAMER	10

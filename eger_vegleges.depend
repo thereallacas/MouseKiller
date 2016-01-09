@@ -1,0 +1,416 @@
+# depslib dependency file v1.0
+1417292269 source:e:\lacas\prog\eger_vegleges\jatek.c
+	"eger.h"
+	"debugmalloc.h"
+
+1416312900 e:\program files\codeblocks\mingw\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1416312900 e:\program files\codeblocks\mingw\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1416312900 e:\program files\codeblocks\mingw\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1416312900 e:\program files\codeblocks\mingw\include\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1416312900 e:\program files\codeblocks\mingw\include\sdl_platform.h
+
+1341006780 e:\program files\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006770 e:\program files\codeblocks\mingw\include\_mingw.h
+
+1341006776 e:\program files\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1341006776 e:\program files\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006774 e:\program files\codeblocks\mingw\include\malloc.h
+	<_mingw.h>
+	<stdlib.h>
+
+1341006774 e:\program files\codeblocks\mingw\include\memory.h
+	<string.h>
+
+1341006776 e:\program files\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006776 e:\program files\codeblocks\mingw\include\strings.h
+	<string.h>
+
+1341006772 e:\program files\codeblocks\mingw\include\inttypes.h
+	<_mingw.h>
+	<stdint.h>
+	<stddef.h>
+
+1341006776 e:\program files\codeblocks\mingw\include\stdint.h
+	<stddef.h>
+
+1341006770 e:\program files\codeblocks\mingw\include\ctype.h
+	<_mingw.h>
+	<stddef.h>
+
+1416312899 e:\program files\codeblocks\mingw\include\begin_code.h
+
+1416312899 e:\program files\codeblocks\mingw\include\close_code.h
+
+1416312900 e:\program files\codeblocks\mingw\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1416312900 e:\program files\codeblocks\mingw\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1416312900 e:\program files\codeblocks\mingw\include\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1416312900 e:\program files\codeblocks\mingw\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1416312900 e:\program files\codeblocks\mingw\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1341006774 e:\program files\codeblocks\mingw\include\process.h
+	<_mingw.h>
+	<sys/types.h>
+	<stdint.h>
+
+1416312900 e:\program files\codeblocks\mingw\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1416312900 e:\program files\codeblocks\mingw\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1416312900 e:\program files\codeblocks\mingw\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1416312900 e:\program files\codeblocks\mingw\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1416312900 e:\program files\codeblocks\mingw\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1416312900 e:\program files\codeblocks\mingw\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1416312900 e:\program files\codeblocks\mingw\include\sdl_keysym.h
+
+1416312900 e:\program files\codeblocks\mingw\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1416312900 e:\program files\codeblocks\mingw\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1416312900 e:\program files\codeblocks\mingw\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1416312900 e:\program files\codeblocks\mingw\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1416312900 e:\program files\codeblocks\mingw\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1416312900 e:\program files\codeblocks\mingw\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1416312900 e:\program files\codeblocks\mingw\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1416312900 e:\program files\codeblocks\mingw\include\sdl_gfxprimitives.h
+	<math.h>
+	"SDL.h"
+
+1341006774 e:\program files\codeblocks\mingw\include\math.h
+	<_mingw.h>
+
+1341006776 e:\program files\codeblocks\mingw\include\time.h
+	<_mingw.h>
+	<stddef.h>
+
+1416312900 e:\program files\codeblocks\mingw\include\sdl_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_byteorder.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1416312900 e:\program files\codeblocks\mingw\include\sdl_types.h
+	"SDL_stdinc.h"
+
+1416312900 e:\program files\codeblocks\mingw\include\sdl_byteorder.h
+	"SDL_endian.h"
+
+1417297219 e:\lacas\prog\eger_vegleges\eger.h
+	<SDL.h>
+	<SDL_gfxPrimitives.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1417298330 source:e:\lacas\prog\eger_vegleges\main.c
+	"eger.h"
+	"debugmalloc.h"
+
+1417298346 source:e:\lacas\prog\eger_vegleges\menu.c
+	"eger.h"
+	"debugmalloc.h"
+
+1394937197 e:\program files\codeblocks\mingw\include\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 e:\program files\codeblocks\mingw\include\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 e:\program files\codeblocks\mingw\include\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 e:\program files\codeblocks\mingw\include\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1416312900 e:\program files\codeblocks\mingw\include\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1417031410 source:e:\lacas\prog\eger_vegleges\debugmalloc.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	<stdarg.h>
+	"debugmalloc.h"
+
+1417031358 e:\lacas\prog\eger_vegleges\debugmalloc.h
+	<stdlib.h>
+
+1417182172 source:e:\lacas\prog\eger_vegleges\tabla.c
+	"eger.h"
+	"debugmalloc.h"
+
+1417181162 source:e:\lacas\prog\eger_vegleges\tabla_r.c
+	"eger.h"
+	"debugmalloc.h"
+
+1417031410 source:e:\eger_vegleges\debugmalloc.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	<stdarg.h>
+	"debugmalloc.h"
+
+1417031358 e:\eger_vegleges\debugmalloc.h
+	<stdlib.h>
+
+1417954705 source:e:\eger_vegleges\jatek.c
+	"eger.h"
+
+1417959250 e:\eger_vegleges\eger.h
+	<SDL.h>
+	<SDL_gfxPrimitives.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1417872149 source:e:\eger_vegleges\main.c
+	"eger.h"
+
+1418204265 source:e:\eger_vegleges\menu.c
+	"eger.h"
+
+1417821122 source:e:\eger_vegleges\tabla.c
+	"eger.h"
+	"tabla.h"
+
+1417949425 source:e:\eger_vegleges\tabla_r.c
+	"eger.h"
+	"tabla.h"
+
+1417361335 source:e:\eger_vegleges\jatek masolata.c
+
+1417361650 source:e:\eger_vegleges\piszkozat.c
+
+1417821119 e:\eger_vegleges\jatek.h
+
+1417875502 e:\eger_vegleges\tabla.h
+
+1417811743 e:\eger_vegleges\menu.h
+
+1418644131 source:e:\mouse killer 1.2\eger_vegleges\jatek.c
+	"eger.h"
+
+1418642499 e:\mouse killer 1.2\eger_vegleges\eger.h
+	<SDL.h>
+	<SDL_gfxPrimitives.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	<time.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1417821122 source:e:\mouse killer 1.2\eger_vegleges\tabla.c
+	"eger.h"
+	"tabla.h"
+
+1417875502 e:\mouse killer 1.2\eger_vegleges\tabla.h
+
+1418408226 source:e:\mouse killer 1.2\eger_vegleges\tabla_r.c
+	"eger.h"
+	"tabla.h"
+
+1418640239 source:e:\mouse killer 1.2\eger_vegleges\main.c
+	"eger.h"
+
+1418641514 source:e:\mouse killer 1.2\eger_vegleges\menu.c
+	"eger.h"
+
+1418641564 source:e:\mouse killer 1.2\eger_vegleges\help.c
+	"eger.h"
+
+1418595105 source:e:\mouse killer 1.2\eger_vegleges\special thanks.c
+	"eger.h"
+
+1418570075 source:e:\mouse killer 1.2\eger_vegleges\resource.rc
+
